@@ -19,7 +19,7 @@ If you want to tweak or try out this library anyway, read the **Build & Installa
 **Build & Install:**
 
 ```bash
-git clone https://github.com/AshishBirajdar2004/DSA-Lib.git
+git clone https://github.com/itsAshDev/DSA-Lib.git
 cd DSA-Lib
 make
 sudo make install
